@@ -41,3 +41,112 @@ Settings part 2
 
 Settings Part 3
 <img width="959" height="415" alt="image" src="https://github.com/user-attachments/assets/34904437-d96e-4060-858f-72c6085e9a32" />
+
+Features
+1. Secure User Authentication
+
+Provides a secure login system using JWT (JSON Web Token) authentication. Only authorized users can access the system based on their credentials.
+
+2. Role-Based Access Control
+
+Different user roles (such as Admin and Staff) have different permissions, ensuring that users can only access features relevant to their responsibilities.
+
+3. Dashboard Analytics
+
+Displays important business statistics including total sales, revenue, inventory status, low-stock medicines, and other key performance indicators in one place.
+
+4. Medicine Inventory Management
+
+Allows users to add, update, delete, and search medicines while maintaining complete inventory records.
+
+5. Category Management
+
+Organizes medicines into different categories, making products easier to manage and locate.
+
+6. Supplier Management
+
+Stores supplier information including contact details, supplied medicines, and purchase history for efficient stock management.
+
+7. Customer Management
+
+Maintains customer records to improve billing efficiency and customer relationship management.
+
+8. Sales & Billing System
+
+Enables quick medicine sales with automatic bill generation and accurate transaction processing.
+
+9. Printable Sales Receipt
+
+Generates professional receipts containing medicine details, quantity, prices, taxes, and total amount, ready for printing.
+
+10. Low Stock Monitoring
+
+Automatically identifies medicines with low inventory levels, helping prevent stock shortages.
+
+11. Stock Management
+
+Keeps track of available medicine quantities and updates inventory automatically after every sale.
+
+12. Search & Filter Functionality
+
+Allows users to quickly search medicines, customers, suppliers, and sales records using keywords and filters.
+
+13. Responsive User Interface
+
+Designed to work smoothly across desktops, laptops, tablets, and mobile devices with a responsive layout.
+
+14. User-Friendly Dashboard
+
+Provides an intuitive interface with easy navigation, making the system simple for pharmacists and staff to operate.
+
+15. Sales History
+
+Stores previous sales records, allowing users to review transaction history whenever needed.
+
+16. Revenue Tracking
+
+Calculates and displays total earnings, helping pharmacy owners monitor business performance.
+
+17. Permission-Based Navigation
+
+Only displays menus and pages that the logged-in user is authorized to access, improving both security and usability.
+
+18. Real-Time Data Updates
+
+Inventory levels, sales information, and dashboard statistics update instantly after transactions.
+
+19. Fast Performance
+
+Built with React, TypeScript, and Vite to deliver a fast, lightweight, and responsive user experience.
+
+20. Modern UI Design
+
+Developed using Tailwind CSS to provide a clean, modern, and professional interface.
+
+21. Data Validation
+
+Validates user inputs before saving data to reduce errors and maintain accurate records.
+
+22. Secure Session Management
+
+Uses JWT tokens with expiration to maintain secure user sessions and protect sensitive information.
+
+23. Cross-Platform Accessibility
+
+Accessible through any modern web browser without requiring software installation.
+
+24. Easy Deployment
+
+The application can be deployed easily on platforms like Netlify, making it accessible from anywhere.
+
+🛠️ Technologies Used
+React.js
+TypeScript
+Vite
+Tailwind CSS
+JWT Authentication
+Context API
+React Router
+HTML5
+CSS3
+JavaScript (ES6+)
