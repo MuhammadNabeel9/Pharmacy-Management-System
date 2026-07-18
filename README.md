@@ -43,6 +43,7 @@ Settings Part 3
 <img width="959" height="415" alt="image" src="https://github.com/user-attachments/assets/34904437-d96e-4060-858f-72c6085e9a32" />
 
 **#Features**
+
 **1. Secure User Authentication**
 
 Provides a secure login system using JWT (JSON Web Token) authentication. Only authorized users can access the system based on their credentials.
