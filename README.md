@@ -5,7 +5,8 @@ Here is the Demo Link
 https://pharmacy-management-system-1.netlify.app/
 
 Landing Page
-<img width="404" height="394" alt="image" src="https://github.com/user-attachments/assets/7766898d-7cce-43f0-b6a0-3b99ed323f5d" />
+<img width="956" height="411" alt="image" src="https://github.com/user-attachments/assets/2e20b32d-6aa9-41ae-96ce-a46028533c92" />
+
 
 Dashboard
 <img width="958" height="415" alt="image" src="https://github.com/user-attachments/assets/0fddf9c9-853d-4acb-b3f2-4f5967360d0b" />
